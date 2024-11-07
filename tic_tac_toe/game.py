@@ -4,4 +4,4 @@ class Board:
     
     def make_move(self, row, col, player):
         self.board[row][col] = player
-    print('sss')
+    
